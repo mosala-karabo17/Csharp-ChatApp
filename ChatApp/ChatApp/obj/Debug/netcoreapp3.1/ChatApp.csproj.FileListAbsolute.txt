@@ -1,0 +1,16 @@
+C:\Users\Karabo\source\repos\ChatApp\ChatApp\bin\Debug\netcoreapp3.1\ChatApp.exe
+C:\Users\Karabo\source\repos\ChatApp\ChatApp\bin\Debug\netcoreapp3.1\ChatApp.deps.json
+C:\Users\Karabo\source\repos\ChatApp\ChatApp\bin\Debug\netcoreapp3.1\ChatApp.runtimeconfig.json
+C:\Users\Karabo\source\repos\ChatApp\ChatApp\bin\Debug\netcoreapp3.1\ChatApp.runtimeconfig.dev.json
+C:\Users\Karabo\source\repos\ChatApp\ChatApp\bin\Debug\netcoreapp3.1\ChatApp.dll
+C:\Users\Karabo\source\repos\ChatApp\ChatApp\bin\Debug\netcoreapp3.1\ChatApp.pdb
+C:\Users\Karabo\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.Form1.resources
+C:\Users\Karabo\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.csproj.GenerateResource.cache
+C:\Users\Karabo\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.AssemblyInfoInputs.cache
+C:\Users\Karabo\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.AssemblyInfo.cs
+C:\Users\Karabo\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\Karabo\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.dll
+C:\Users\Karabo\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.pdb
+C:\Users\Karabo\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.genruntimeconfig.cache
+C:\Users\Karabo\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.csproj.AssemblyReference.cache
+C:\Users\Karabo\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
